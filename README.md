@@ -1,3 +1,3 @@
 # Hello-world
-## Sous-titre
-mon premier test avec Github
+## À propos
+je suis Ziphra et c'est mon premier test avec Github
